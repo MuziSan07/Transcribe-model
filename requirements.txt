@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+transformers
+torchaudio
+soundfile
+python-dotenv

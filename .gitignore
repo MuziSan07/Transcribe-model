@@ -1,0 +1,42 @@
+# Python Bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# IDEs and Text Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Python Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# dotenv files (for different environments)
+.env.*
